@@ -16,6 +16,12 @@ function App() {
     }
     counter = counter + 1
     setCounter(counter)
+
+    // interview question
+    // setCounter(preCounter => preCounter + 1)
+    // setCounter(preCounter => preCounter + 1)
+    // setCounter(preCounter => preCounter + 1)
+    // setCounter(preCounter => preCounter + 1)
   }
 
   const removeValue = () => {
