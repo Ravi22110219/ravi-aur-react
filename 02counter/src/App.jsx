@@ -11,6 +11,9 @@ function App() {
 
   const addValue = () => {
     console.log("value added", counter);
+    if (counter >21) {
+      counter=21
+    }
     counter = counter + 1
     setCounter(counter)
   }
