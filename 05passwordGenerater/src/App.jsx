@@ -105,7 +105,7 @@ function App() {
         </div>
         
         <h3 className='text-white text-center justify-center'>Made In India</h3>
-        <h4 className='text-white text-center justify-center pb-4'>(BIDSUK)</h4>
+        <h4 className='text-white font-text-center justify-center pb-4'>(BIDSUK)</h4>
        
       </div>
 
